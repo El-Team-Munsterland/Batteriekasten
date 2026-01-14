@@ -1,5 +1,9 @@
 # Batteriekasten CityEL – LiFePO4 (Thrige Titan)
 
+![Entwurf Batteriekasten 16 Zellen](drawings/1767718374333.png)
+
+
+
 ## Projektbeschreibung
 
 Dieses Repository enthält CAD-Daten für einen **Batteriekasten zum Nachbau**
