@@ -29,7 +29,7 @@ CityEL-Fahrzeugen eignet.
 - Zelltyp: **EVE LiFePO₄ 230 Ah, 3,2 V**
 - Varianten:
   - **14 Zellen** (erprobt)
-  - **16 Zellen** (Work in Progress, noch nicht erprobt)
+  - **18 Zellen** (Work in Progress, noch nicht erprobt)
 
 ---
 
@@ -39,8 +39,10 @@ CityEL-Fahrzeugen eignet.
   - In einem Fahrzeug verbaut und erprobt
   - Grundlage ist die ursprüngliche Konstruktion aus der Community
 
-- **16-Zellen-Variante**
+- **18-Zellen-Variante**
   - Basiert geometrisch auf der 14-Zellen-Version
+  - Hat Platz für 18 Zellen in Zellkäfigen. Die Idee dahinter ist, dass im rechten und linken Block ein Zellkäfig frei bleibt (16S) und der Raum zur Unterbringung von BMS und Trennrelais verwendet werden kann.
+  - Alternativ 18S und das BMS wird an anderer Stelle platziert.
   - Aktuell **nicht erprobt**
   - Gilt als *Work in Progress*
 
